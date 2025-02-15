@@ -167,6 +167,13 @@
     ],
     "experiences": [
         {
+            "company": "TareenSoft",
+            "profession": "Angular Developer",
+            "duration": "January 2024 - Present",
+            "companyLogo": "images/placeholder-400x400.gif",
+            "description": "Working as an Angular developer in TareenSoft on a traveler portal."
+        },
+        {
             "company": "Freelancing",
             "profession": "Full Stack Developer",
             "duration": "March 2020 - January 2024",
